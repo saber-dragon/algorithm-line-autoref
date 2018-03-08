@@ -41,7 +41,7 @@ printf("Hello World!!")\;\label{helloworld: print}
 
 The pdf produced by the above MWE looks as follows.
 
-![](./mwe.png)
+![MWE](mwe.PNG)
 
 
 
